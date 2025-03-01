@@ -1,0 +1,19 @@
+# LOGICAL OPERATORS-AND,OR,NOT
+# TRUTHY VALUES-ALL NUMBERS EXCEPT 0,TRUE,STRINGS EXCEPT EMPTY STRING
+# FALSY values-0,False,""
+print(2 and 3)
+print(0 and 4)
+print(True and True)
+print(False and True)
+print(2 or 3)
+print(0 or 4)
+print(True or(True and False))
+print(True and(True and False))
+print(not False)
+print(not True)
+# BITWISE OPERATORS-&,|,^,~,>>,<<
+print(2&3)
+print(8|5)
+print(6^8)
+print(9>>5)
+print(5<<7)
